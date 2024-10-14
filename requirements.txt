@@ -1,0 +1,3 @@
+dask[complete]
+dask-sql
+numpy==1.24.0
